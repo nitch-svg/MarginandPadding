@@ -1,0 +1,46 @@
+
+
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    color: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+
+h1 {
+    background-color: rgb(50, 32, 2);
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 0 auto 20px auto;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.wtf {
+    background-color: rgb(14, 111, 111);
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.out {
+    background-color: red;
+    padding: 5px;
+    display: inline-block;
+}
+
+.box {
+    border: 17px solid black;
+}
+
+.cont {
+    background-color: aquamarine;
+    padding: 20px;
+    max-width: 1000px;
+}
